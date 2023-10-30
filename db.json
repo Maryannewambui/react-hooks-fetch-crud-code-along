@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Bogani",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Banana",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
